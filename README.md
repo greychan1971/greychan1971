@@ -8,8 +8,7 @@
 ## 🧬 The IDT (Inner Duel Type) Framework
 I created the **IDT** system to map the 12 unique neural personality types. It’s not just a test; it’s a manual for your brain to achieve true harmony and smarter life decisions.
 
-![IDT Banner](https://github.com/greychan1971/InnerDuel/blob/main/human-operating-system.png?raw=true)
-*(注：这里可以替换成你仓库里那张最炫酷的赛博风图片链接)*
+![IDT Banner](https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/IDT-L-01.jpg)
 
 ---
 
