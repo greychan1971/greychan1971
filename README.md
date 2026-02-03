@@ -1,5 +1,4 @@
 # <p align="center">Welcome to Grey Chan's Lab 🧪</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Founder-InnerDuel.ai-000000?style=for-the-badge&logo=probot&logoColor=00f2ff&labelColor=1a1a1a" alt="Founder">
   <img src="https://img.shields.io/badge/Human_OS-IDT_System-000000?style=for-the-badge&logo=neuroscience&logoColor=ff00ff&labelColor=1a1a1a" alt="IDT">
