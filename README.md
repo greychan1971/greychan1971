@@ -25,7 +25,7 @@ I got tired of the mental chaos, so I created **IDT (Inner Duel Type)** — a ne
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/greychan1971/InnerDuel/refs/heads/main/assets/IDT-L-01.jpg" width="800" alt="IDT Map">
-  [![IDT Banner](https://github.com/greychan1971/InnerDuel/blob/main/human-operating-system.png?raw=true)](https://github.com/greychan1971/InnerDuel)
+  (https://github.com/greychan1971/InnerDuel)
 </p>
 
 ---
