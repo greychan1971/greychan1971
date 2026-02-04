@@ -33,11 +33,11 @@ I got tired of the mental chaos, so I created **IDT (Inner Duel Type)** — a ne
 ## 🏛 The 5-Member Inner Council (L.D.S.T.B.)
 
 Every IDT type navigates life through a unique council of archetypes:
-* **L** - Logic & Reason
-* **D** - Drive & Action
-* **S** - Sentiment & Soul
-* **T** - Truth & Instinct
-* **B** - Balance & Harmony
+* **L** - (Leo) Logic & Reason
+* **D** - (Dominic) Desire & Impulse
+* **S** - (Sasha) Safety & Fear
+* **T** - (Thomas) Tradition & Truth
+* **B** - (Bella) Bond & Harmony
 
 ---
 
